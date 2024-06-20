@@ -1,3 +1,8 @@
+---
+title: 'Contenido de la pagina'
+layout: '../laout/Layout.astro'
+---
+
 # Esto es un ejemplo de articulo
 
 lorem ipsum dolor sit emet, consectetur adipiscing elit
@@ -10,6 +15,6 @@ lorem ipsum dolor sit emet, consectetur adipiscing elit
 
 ```javascript
 fuction(){
-   console.log('hola mundo') 
+   console.log('hola mundo')
 }
 ```
